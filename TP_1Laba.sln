@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_1Laba", "TP_1Laba.csproj", "{119CB6B2-F104-4C21-BD8F-27F7DC173C83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_1lab_Librarry", "..\TP_1lab_Librarry\TP_1lab_Librarry.csproj", "{744A25AD-A58E-4851-8080-2088EE295E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119CB6B2-F104-4C21-BD8F-27F7DC173C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119CB6B2-F104-4C21-BD8F-27F7DC173C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119CB6B2-F104-4C21-BD8F-27F7DC173C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119CB6B2-F104-4C21-BD8F-27F7DC173C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744A25AD-A58E-4851-8080-2088EE295E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744A25AD-A58E-4851-8080-2088EE295E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744A25AD-A58E-4851-8080-2088EE295E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744A25AD-A58E-4851-8080-2088EE295E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6162649-E31D-42FB-80FD-162140A75E8C}
+	EndGlobalSection
+EndGlobal
